@@ -11,3 +11,4 @@ plugins {
 rootProject.name = "kotlin-professional"
 
 include("m1")
+include("m2")
