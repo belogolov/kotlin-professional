@@ -2,8 +2,8 @@ plugins {
     kotlin("jvm") apply false
 }
 
-group = "com.github.belogolov.kotlin.prof"
-version = "1.0-SNAPSHOT"
+group = "com.github.belogolov.kotlin.prof.lessons"
+version = "0.0.1"
 
 allprojects {
     repositories {
